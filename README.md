@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHphYWhwaW0wMTg2ZmZ3bDl6YTQ0MWV4bDRkeWQwMzFneDlvcHppZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif)
+![MasterHead](https://media.licdn.com/dms/image/D5612AQGempFggtqb6g/article-cover_image-shrink_720_1280/0/1704526507889?e=1721865600&v=beta&t=5l9daT-y5RYZKKVMaRyoxv1wZw3Z7Det0HS39i799TA)
 
 <h1 align="center">Hi 👋, I'm Dhruv Kalia</h1>
 <h3 align="center">A passionate software developer from India</h3>
