@@ -1,5 +1,8 @@
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw1dHxtCB_eDpPIO7l_Xvv6D&ust=1716472859337000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi12_K1oYYDFQAAAAAdAAAAABAd)
+
 <h1 align="center">Hi 👋, I'm Dhruv Kalia</h1>
 <h3 align="center">A passionate software developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw1dHxtCB_eDpPIO7l_Xvv6D&ust=1716472859337000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi12_K1oYYDFQAAAAAdAAAAABAP">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvkalia20&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvkalia20" /> </p>
 
