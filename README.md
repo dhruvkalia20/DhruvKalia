@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Dhruv Kalia</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw1dHxtCB_eDpPIO7l_Xvv6D&ust=1716472859337000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi12_K1oYYDFQAAAAAdAAAAABAP">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlvam4ycWc0bTN1NDBjbHhnMXpzZHAya2R1eHBjdHZ6Z200eWo1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvkalia20&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvkalia20" /> </p>
 
